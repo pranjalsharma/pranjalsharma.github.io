@@ -1,4 +1,4 @@
-<h1><img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> Hey!, I am <a href="https://github.com/pranjalsharma">Pranjal</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+<!-- <h1><img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> Hey!, I am <a href="https://github.com/pranjalsharma">Pranjal</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1> -->
 
 ### 📬 Find me at
 [![GitHub follower](https://img.shields.io/github/followers/pranjalsharma?label=Follow&style=social)](https://github.com/pranjalsharma/?tab=follow)
