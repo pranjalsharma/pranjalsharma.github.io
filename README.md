@@ -22,7 +22,7 @@ I teach Computer Science **🎓 [@ University of Hertfordshire](https://www.hert
 - 📝 I write technical blogs and articles
 - 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
 - 💬 Ask me about Python, ML, DL, CV, NLP
-- 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
+- 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬 <br/><br/>
 
 
 
